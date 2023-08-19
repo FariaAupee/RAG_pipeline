@@ -1,0 +1,5 @@
+{
+    "transformers": {
+        "default": "faria-aupee/RAG_llama2"
+    }
+}
